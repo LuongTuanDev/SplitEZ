@@ -76,16 +76,18 @@ npx expo start
 
 ## Ảnh Chụp Ứng Dụng
 
-| Dashboard | Quét Hóa Đơn | Quản Lý Nhóm |
+| Dashboard | 
 | :---: | :---: | :---: |
-| <img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/e0a15591-5d3d-43c5-b134-bda97dd938e7" />
+| <img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/e0a15591-5d3d-43c5-b134-bda97dd938e7" />|
+| :---: |
 | Quét Hóa Đơn |
+| :---: |
  | <img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/1cce00d0-c37d-44a2-b5d5-6e20c1866d90" />
  <img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/bac1e1d8-e682-4a28-ba63-4c892653b5ac" />
-<img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/aad74de3-9024-4a55-ab27-1d6986437ef5" />
+<img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/aad74de3-9024-4a55-ab27-1d6986437ef5" />|
 | Quản Lý Nhóm |
- | <img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/f8f55544-133b-4a0a-83e6-761ea8a54471" />
- |
+| :---: |
+ | <img width="945" height="2046" alt="image" src="https://github.com/user-attachments/assets/f8f55544-133b-4a0a-83e6-761ea8a54471" />|
 
 
 ---
